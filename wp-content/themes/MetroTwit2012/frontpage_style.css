@@ -1,0 +1,204 @@
+    #header #twoscreens
+    {
+        margin-top: 60px;
+    }
+
+        #header #twoscreens .span5
+        {
+            text-align: center;
+        }
+
+        #header #twoscreens a
+        {
+            text-decoration: none !important;
+        }
+
+        #header #twoscreens .heroimg
+        {
+            position: relative;
+            -webkit-transition: all 0.3s ease;
+        }
+
+            #header #twoscreens .heroimg:hover
+            {
+                top: -10px;
+            }
+
+        #header #twoscreens .herobutton
+        {
+            display: block;
+            padding: 16px;
+            color: white;
+            text-decoration: none;
+            position: relative;
+            margin-top: 10px;
+            text-align: center;
+            background-color: #198fcb;
+        }
+
+            #header #twoscreens .herobutton strong
+            {
+                display: block;
+                font-size: 21px;
+                font-weight: 300;
+                line-height: 1;
+                margin-bottom: 10px;
+            }
+
+            #header #twoscreens .herobutton span
+            {
+                display: block;
+                line-height: 1;
+                font-size: 12px;
+                opacity: 0.6;
+                font-weight: 300;
+            }
+
+            #header #twoscreens .herobutton:hover
+            {
+                background-color: #000;
+                color: white;
+            }
+
+            #header #twoscreens .herobutton:active
+            {
+                top: 2px;
+            }
+
+#quotes
+{
+    color: #555;
+}
+
+    #quotes h3
+    {
+        font-weight: 600;
+        font-size: 34px;
+        line-height: 130%;
+        color: #555;
+        text-align: center;
+        margin: 0 0 20px 0;
+    }
+
+    #quotes blockquote
+    {
+        margin: 0 0 30px 0;
+        padding: 0;
+        border: 0;
+    }
+
+        #quotes blockquote .quotetext
+        {
+            font-size: 17px;
+            font-weight: 300;
+            line-height: 1.4em;
+        }
+
+        #quotes blockquote .quoteauthor
+        {
+            margin-top: 14px;
+            font-size: 13px;
+            font-style: normal;
+        }
+
+            #quotes blockquote .quoteauthor img
+            {
+                background: white;
+                border-radius: 4px;
+                padding: 3px;
+                width: 24px;
+                height: 24px;
+                margin-right: 10px;
+            }
+
+    #quotes #social
+    {
+        margin-top: 40px;
+        text-align: center;
+    }
+
+        #quotes #social .fb-like
+        {
+            vertical-align: top;
+            margin-top: 2px;
+        }
+
+	#quotes #social #___plusone_0
+	{
+	    vertical-align: top !important;
+            margin-top: 2px;
+	}
+
+img.hero-feature
+{
+    margin: 0 auto 50px;
+    box-shadow: 0 0 50px rgba(0,0,0,0.3);
+    display: block;
+}
+
+#metrotwitdesktop h3, #metrotwitwindows8 h3 
+{
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 130%;
+    color: #555;
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+#metrotwitdesktop
+{
+}
+
+    #metrotwitdesktop #link-faq, #metrotwitdesktop #link-beta
+    {
+        font-size: 16px;
+        font-weight: 300;
+        margin: 20px 0;
+        text-align: center;
+    }
+
+    #metrotwitdesktop .downloads
+    {
+        margin-bottom: 50px;
+    }
+
+    #metrotwitdesktop .highlights p
+    {
+        line-height: 180%;
+    }
+
+    #metrotwitdesktop .highlights .row
+    {
+        margin-bottom: 30px;
+    }
+
+    #metrotwitdesktop .highlights #highlights-multiaccount
+    {
+        background: url(images/persons.png) no-repeat 88% 50%;
+        padding: 0 300px 0 0;
+    }
+
+    #metrotwitdesktop .highlights #highlights-undo
+    {
+        background: url(images/undo.png) no-repeat 31% 50%;
+        padding: 0 0 0 400px;
+    }
+
+    #metrotwitdesktop .highlights #highlights-fast
+    {
+        background: url(images/eagle.png) no-repeat 81% 50%;
+        padding: 10px 300px 0 0;
+        margin-top: -10px;
+    }
+
+#metrotwitwindows8
+{
+    background-color: #00639c;
+    color: #fff;
+}
+
+    #metrotwitwindows8 h3
+    {
+        color: #fff;
+    }
